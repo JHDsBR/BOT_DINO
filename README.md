@@ -1,4 +1,4 @@
 # BOT_DINO
-link para o jogo: [chrome://dino](chrome://dino) 
+jogo:  basta digitar no chrome ->   chrome://dino/ 
 
 a Código em python com pyautogui que automatiza a jogabilidade do jogo "dino" do chrome.
